@@ -1,4 +1,4 @@
-# 
+# VIP YNAB plugins pour Mac OS | Mis à jour YNAB plugins pour PC Windows. Avec gestion des clients et dépôt électronique IRS — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
